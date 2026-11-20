@@ -1,0 +1,32 @@
+<<<<<<< HEAD
+fastapi==0.111.0
+uvicorn[standard]==0.29.0
+websockets==12.0
+sqlalchemy==2.0.30
+pydantic==2.7.1
+pydantic-settings==2.2.1
+python-dotenv==1.0.1
+aiosqlite==0.20.0
+greenlet==3.0.3
+httpx==0.27.0
+pytest==8.2.0
+pytest-asyncio==0.23.6
+alembic==1.13.1
+greenlet
+=======
+fastapi>=0.115.0
+uvicorn[standard]>=0.30.0
+websockets>=12.0
+sqlalchemy>=2.0.35
+pydantic>=2.9.0
+pydantic-settings>=2.5.0
+python-dotenv>=1.0.1
+aiosqlite>=0.20.0
+greenlet>=3.1.0
+httpx>=0.27.0
+pytest>=8.3.0
+pytest-asyncio>=0.24.0
+alembic>=1.13.3
+pyserial>=3.5
+requests>=2.31.0
+>>>>>>> 7c9f19dd72e6b2b91144e9b84a478ed9fe1d399c
